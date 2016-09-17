@@ -16,12 +16,7 @@ author:
   instagram_username:  hatipogluakif
 
 defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+
 
 # Build settings
 destination: _site
